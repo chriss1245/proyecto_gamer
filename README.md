@@ -1,4 +1,4 @@
-# The web server of Indi javascript games
+# The web server of javascript games
 This repository contains the links and the documentation for the whole PROYECTO GAMER infrastructure
 
 Projecto gamer is an Open source web page which offers anyone to host his or her game. And make it available for internet.
